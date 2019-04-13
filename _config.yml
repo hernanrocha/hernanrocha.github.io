@@ -1,0 +1,8 @@
+title: Hernan Rocha
+description: Universidad del Centro (U.N.C.P.B.A.) Tandil - Argentina
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
